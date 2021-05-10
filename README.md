@@ -1,2 +1,2 @@
 ## hello there.
-this is just my vimrc nothing special ¯\_(ツ)_/¯.
+this is just my vimrc nothing special ¯\\\_(ツ)_/¯.
